@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KayMushaya
 - 👀 I’m interested in ...penatration testing
 - 🌱 I’m currently learning ...cyber security
-- 💞️ I’m looking to collaborate on ...bug bounty huntinh
+- 💞️ I’m looking to collaborate on ...bug bounty hunting
 - 📫 How to reach me ...email
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
